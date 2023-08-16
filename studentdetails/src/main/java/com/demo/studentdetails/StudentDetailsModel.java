@@ -4,7 +4,7 @@ public class StudentDetailsModel {
 	private String name;
     private int age;
     private String gender;
-    private int result; //to get bug or code smell
+    
 
     public StudentDetailsModel(String name, int age, String gender) {
         this.name = name;
